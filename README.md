@@ -65,3 +65,27 @@
 <p align="center">
   <img src="./result/loss.gif" width="400" height="300"/>
 </p>
+
+#### Binary Cross Entropy Loss
+- Binary CE Loss 란?
+  쉽게 말하면, 정답이 0, 1 이진 분류를 할 때 사용하는 Loss
+
+<p align="center">
+  <img src="./result/celoss.png" width="600"/>
+</p>
+
+- t = 정답, y_hat = 예측값
+
+  1. t=0일 때,<br>
+      y_hat = 1이라면? loss -> Inf<br>
+      y_hat = 0이라면? loss -> 0<br>
+  2. t=1일 때,<br>
+      y_hat = 0이라면? loss -> Inf<br>
+      y_hat = 1이라면? loss -> 0<br>
+
+#### Softmax Regression(다중 분류)
+- 다중 분류란?
+  
+  여러개의 Class(고양이, 개, 개구리...)를 분류
+
+- 
