@@ -24,8 +24,35 @@
 - Classification
 
   10점 이상이면 합격 / 10점 미만이면 불합격
-  <p align="center">
+<p align="center">
   <img src="./result/reg_class_1.png" width="400" height="300"/>
+</p>
+
+#### Linear Regression / Logistic Regression(Sigmoid Function)
+- 데이터
+
+  x1 = 키 / x2 = 몸무게
+<p align="center">
+  <img src="./result/data1.png" width="400" height="300"/>
+</p>
+
+- 정답(정상/비정상)
+
+<p align="center">
+  <img src="./result/data2.png" width="400" height="300"/>
+</p>
+
+- Linear Regression
+
+  정상과 비정상을 정확하게 나눌 수 있는 선형함수 y=ax+b를 찾는 과정
+<p align="center">
+  <img src="./result/linear_reg.gif" width="400" height="300"/>
+</p>
+
+- Logistic Regression
+  정상과 비정상을 정확하게 나눌 수 있는 Sigmoid(y=1/(e^-x+1))를 찾는 과정
+<p align="center">
+  <img src="./result/linear_b_2.png" width="400" height="300"/>
 </p>
 
 ### 5주차
