@@ -55,8 +55,6 @@
   <img src="./result/linear_b_2.png" width="400" height="300"/>
 </p>
 
-### 5주차
--------
 #### Loss
 - Loss 란?
 
@@ -82,10 +80,3 @@
   2. t=1일 때,<br>
       y_hat = 0이라면? loss -> Inf<br>
       y_hat = 1이라면? loss -> 0<br>
-
-#### Softmax Regression(다중 분류)
-- 다중 분류란?
-  
-  여러개의 Class(고양이, 개, 개구리...)를 분류
-
-- 
