@@ -44,7 +44,7 @@
 
 - Linear Regression
 
-  정상과 비정상을 정확하게 나눌 수 있는 선형함수 y=ax+b를 찾는 과정
+  정상과 비정상을 정확하게 나눌 수 있는 선형함수 x2=ax1+b를 찾는 과정
 <p align="center">
   <img src="./result/linear_reg.gif" width="400" height="300"/>
 </p>
