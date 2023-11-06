@@ -1,6 +1,6 @@
 # AI-Seminar-231106
 
-### 4주차 복습
+### 5주차 복습
 -------
 #### Regression, Classification
 - Regression 이란?
