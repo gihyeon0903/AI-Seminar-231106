@@ -23,7 +23,7 @@
 
 - Classification
 
-  10점 이상이면 합격 / 10점 미만이면 불합격
+  합격 / 불합격
 <p align="center">
   <img src="./result/reg_class_1.png" width="400" height="300"/>
 </p>
